@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: "Courier New", Courier, monospace;
+  
+  --color-glovo-yellow: #FFC244;
+  --color-glovo-black: #1D1D1B;
+  --color-glovo-green: #00A082;
+  --color-glovo-red: #E84C3D;
+  --color-glovo-blue: #0077FF;
+  --color-bg-gray: #F2F2F2;
+  --color-card-border: #E0E0E0;
+}

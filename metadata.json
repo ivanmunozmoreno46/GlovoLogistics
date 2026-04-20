@@ -1,0 +1,6 @@
+{
+  "name": "Glovo Logistics Ops Engine",
+  "description": "Intelligent Operations Engine for Glovo: Real-time incident response (HOT) and daily batch analysis (COLD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
